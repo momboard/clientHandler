@@ -1,0 +1,16 @@
+{
+  "clients": [
+    {
+      "client": "arefinSam",
+      "status": 200
+    },
+    {
+      "client": "johnDoe",
+      "status": 400
+    },
+    {
+      "client": "sarahLee",
+      "status": 400
+    }
+  ]
+}
